@@ -61,22 +61,22 @@ The system continues serving traffic even when individual instances are terminat
 ## Screenshots
 
 ### VPC Resource Map
-![VPC Resource Map](screenshots/01-vpc-resource-map.png)
+![VPC Resource Map](screenshots/27.png)
 
 ### Private Route Table
-![Private Route Table](screenshots/02-private-route-table.png)
+![Private Route Table](screenshots/11.png)
 
 ### Private EC2 Instances
-![Private EC2 Instances](screenshots/03-private-ec2-instances.png)
+![Private EC2 Instances](screenshots/23.png)
 
 ### Application Load Balancer
-![Application Load Balancer](screenshots/04-application-load-balancer.png)
+![Application Load Balancer](screenshots/20.png)
 
 ### Auto Scaling Group Configuration
-![Auto Scaling Group](screenshots/05-auto-scaling-group.png)
+![Auto Scaling Group](screenshots/21.png)
 
 ### End-to-End Response via ALB
-![Browser Response](screenshots/06-browser-response.png)
+![Browser Response](screenshots/22.png)
 
 ---
 
